@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներենի Ուսուցում (Aprender Español)",
+  "description": "Ինտերակտիվ ուսումնական հավելված իսպաներենից հայերեն՝ հարցերով, երկխոսություններով և տեքստերով",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
